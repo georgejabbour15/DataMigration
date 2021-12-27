@@ -1,0 +1,71 @@
+{
+  "namespace": "com.mbusa.avro.dto",
+  "type": "record",
+  "name": "CmpgnCustVehDTO",
+  "fields": [
+    {
+      "name": "ID_CUST",
+      "type": "string"
+    },
+    {
+      "name": "ID_FIN",
+      "type": "string"
+    },
+    {
+      "name": "DTE_STRT",
+      "type": "string"
+    },
+    {
+      "name": "DTE_END",
+      "type": "string"
+    },
+    {
+      "name": "IND_CUST_SRC_VEND",
+      "type": "string"
+    },
+    {
+      "name": "IND_VIO",
+      "type": "string"
+    },
+    {
+      "name": "NUM_VEH_LIC_PLT",
+      "type": "string"
+    },
+    {
+      "name": "DTE_VEH_RGS",
+      "type": "string"
+    },
+    {
+      "name": "DTE_SRC_RCD_UPDT",
+      "type": "string"
+    },
+    {
+      "name": "TME_SRC_RCD_UPDT",
+      "type": "string"
+    },
+    {
+      "name": "ID_SRC_RCD_UPDT_USER",
+      "type": "string"
+    },
+    {
+      "name": "CDE_SELL_DLR",
+      "type": "string"
+    },
+    {
+      "name": "DTS_CREA",
+      "type": "string"
+    },
+    {
+      "name": "ID_CREA_USER",
+      "type": "string"
+    },
+    {
+      "name": "DTS_LAST_UPDT",
+      "type": "string"
+    },
+    {
+      "name": "ID_LAST_UPDT_USER",
+      "type": "string"
+    }
+  ]
+}

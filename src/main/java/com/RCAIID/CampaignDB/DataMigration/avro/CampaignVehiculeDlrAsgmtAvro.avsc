@@ -1,0 +1,62 @@
+{
+  "namespace": "com.mbusa.avro.dto",
+  "type": "record",
+  "name": "CampaignVehiculeDealerAsgmtDTO",
+  "fields": [{
+      "name": "cde_dlr",
+      "type": "string"
+      },
+      {
+        "name": "num_cmpgn",
+        "type": "string"
+      },
+      {
+        "name": "id_fin",
+        "type": "string"
+      },
+      {
+        "name": "cde_ctry",
+        "type": "string"
+      },
+      {
+        "name": "cde_cmpgn_typ",
+        "type": "string"
+      },
+      {
+        "name": "cde_dlr_asgmt_rule",
+        "type": "string"
+      },
+      {
+        "name": "dte_veh_grnd",
+        "type": "string"
+      },
+      {
+        "name": "ind_veh_lnch",
+        "type": "string"
+      },
+      {
+        "name": "ind_veh_ca",
+        "type": "string"
+      }, {
+        "name": "dts_crea",
+        "type": "string"
+      },
+      {
+        "name": "id_crea_user",
+        "type": "string"
+      },
+      {
+        "name": "dts_last_updt",
+        "type": "string"
+      },
+      {
+        "name": "id_last_updt_user",
+        "type": "string"
+      },
+      {
+        "name": "ind_oper",
+        "type": "string"
+      }
+    ]
+  }
+

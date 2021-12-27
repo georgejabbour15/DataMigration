@@ -1,0 +1,99 @@
+{
+  "namespace": "com.mbusa.avro.dto",
+  "type": "record",
+  "name": "CmpgnCustDTO",
+  "fields": [
+    {
+      "name": "ID_CUST",
+      "type": "string"
+    },
+    {
+      "name": "NAM_LAST",
+      "type": "string"
+    },
+    {
+      "name": "NAM_FIR",
+      "type": "string"
+    },
+    {
+      "name": "NAM_MID_INIT",
+      "type": "string"
+    },
+    {
+      "name": "NAM_PFX",
+      "type": "string"
+    },
+    {
+      "name": "NAM_SFX",
+      "type": "string"
+    },
+    {
+      "name": "ADR_LN_1",
+      "type": "string"
+    },
+    {
+      "name": "ADR_LN_2",
+      "type": "string"
+    },
+    {
+      "name": "ADR_LN_3",
+      "type": "string"
+    },
+    {
+      "name": "NAM_CITY",
+      "type": "string"
+    },
+    {
+      "name": "CDE_ST",
+      "type": "string"
+    },
+    {
+      "name": "CDE_ZIP",
+      "type": "string"
+    },
+    {
+      "name": "DTE_EFF",
+      "type": "string"
+    },
+    {
+      "name": "ADR_EML",
+      "type": "string"
+    },
+    {
+      "name": "NUM_TEL",
+      "type": "string"
+    },
+    {
+      "name": "CDE_CUST_CTRY",
+      "type": "string"
+    },
+    {
+      "name": "DTE_SRC_RCD_UPDT",
+      "type": "string"
+    },
+    {
+      "name": "TME_SRC_RCD_UPDT",
+      "type": "string"
+    },
+    {
+      "name": "ID_SRC_RCD_UPDT_USER",
+      "type": "string"
+    },
+    {
+      "name": "DTS_CREA",
+      "type": "string"
+    },
+    {
+      "name": "ID_CREA_USER",
+      "type": "string"
+    },
+    {
+      "name": "DTS_LAST_UPDT",
+      "type": "string"
+    },
+    {
+      "name": "ID_LAST_UPDT_USER",
+      "type": "string"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "namespace": "com.mbusa.avro.dto",
+  "type": "record",
+  "name": "VehMstrDTO",
+  "fields": [
+    {
+      "name": "ID_FIN",
+      "type": "string"
+    },
+    {
+      "name": "ID_NUM_VIN",
+      "type": "string"
+    },
+    {
+      "name": "NUM_MODL_YR",
+      "type": "string"
+    },
+    {
+      "name": "CDE_MODL_CLS",
+      "type": "string"
+    },
+    {
+      "name": "CDE_WRLD_MFR",
+      "type": "string"
+    },
+    {
+      "name": "CDE_FIN_BAUREIHE",
+      "type": "string"
+    },
+    {
+      "name": "CDE_MODL_SER",
+      "type": "string"
+    },
+    {
+      "name": "CDE_STR_PLANT",
+      "type": "string"
+    },
+    {
+      "name": "CDE_SER_NUM",
+      "type": "string"
+    },
+    {
+      "name": "DES_SLS_MDL",
+      "type": "string"
+    },
+    {
+      "name": "NUM_PORD",
+      "type": "string"
+    },
+    {
+      "name": "CDE_LTST_VEH_RTL_STAT",
+      "type": "string"
+    },
+    {
+      "name": "ID_LTST_DLR",
+      "type": "string"
+    },
+    {
+      "name": "DTE_LTST_CUST_RTL_VEH",
+      "type": "string"
+    },
+    {
+      "name": "CDE_LTST_SLS_PRI",
+      "type": "string"
+    },
+    {
+      "name": "CDE_CTRY",
+      "type": "string"
+    },
+    {
+      "name": "DES_WRNTY_MODL",
+      "type": "string"
+    },
+    {
+      "name": "IND_WRNTY_VEH_STAT",
+      "type": "string"
+    },
+    {
+      "name": "CDE_INV_DLR",
+      "type": "string"
+    },
+    {
+      "name": "DTE_REGIS",
+      "type": "string"
+    },
+    {
+      "name": "DTE_PROD",
+      "type": "string"
+    },
+    {
+      "name": "DTS_CREA",
+      "type": "string"
+    },
+    {
+      "name": "ID_CREA_USER",
+      "type": "string"
+    },
+    {
+      "name": "DTS_LAST_UPDT",
+      "type": "string"
+    },
+    {
+      "name": "ID_LAST_UPDT_USER",
+      "type": "string"
+    },
+  ]
+}

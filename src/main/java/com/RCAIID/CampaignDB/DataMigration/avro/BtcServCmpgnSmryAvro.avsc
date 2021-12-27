@@ -1,0 +1,70 @@
+{
+  "namespace": "com.mbusa.avro.dto",
+  "type": "record",
+  "name": "BtcServCmognSmryDTO",
+  "fields": [{
+      "name": "CDE_CTRY",
+      "type": "string"
+    },
+    {
+      "name": "CDE_DLR",
+      "type": "string"
+    },
+    {
+      "name": "GRPH_TYPE_CODE",
+      "type": "string"
+    },
+    {
+      "name": "DTE_YR",
+      "type": "string"
+    },
+    {
+      "name": "DTE_MTH",
+      "type": "string"
+    },
+    {
+      "name": "DTE_WK",
+      "type": "string"
+    },
+    {
+      "name": "CNT_TOT_VEH",
+      "type": "string"
+    },
+    {
+      "name": "CNT_TOT_RPRD_VEH",
+      "type": "string"
+    },
+    {
+      "name": "CNT_TOT_TARG_VEH",
+      "type": "string"
+    },
+    {
+      "name": "PCT_TRGT_RATE",
+      "type": "string"
+    },
+    {
+      "name": "PCT_CML_RATE",
+      "type": "string"
+    },
+    {
+      "name": "NUM_DLR_RNK",
+      "type": "string"
+    },
+    {
+      "name": "DTS_CREA",
+      "type": "string"
+    },
+    {
+      "name": "ID_CREA_USER",
+      "type": "string"
+    },
+    {
+      "name": "DTS_LAST_UPDT",
+      "type": "string"
+    },
+    {
+      "name": "ID_LAST_UPDT_USER",
+      "type": "string"
+    }
+  ]
+}

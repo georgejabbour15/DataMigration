@@ -1,0 +1,102 @@
+{
+  "namespace": "com.mbusa.avro.dto",
+  "type": "record",
+  "name": "CmpgnDmgMstrDTO",
+  "fields": [
+    {
+      "name": "CDE_CTRY",
+      "type": "string"
+    },
+    {
+      "name": "NUM_CMPGN",
+      "type": "string"
+    },
+    {
+      "name": "NUM_CMPGN_DMG_SEQ",
+      "type": "string"
+    },
+    {
+      "name": "CDE_CMPGN_DMG",
+      "type": "string"
+    },
+    {
+      "name": "DTE_STRT",
+      "type": "string"
+    },
+    {
+      "name": "DTE_END",
+      "type": "string"
+    },
+    {
+      "name": "DES_CMPGN",
+      "type": "string"
+    },
+    {
+      "name": "CDE_FULL_DMG",
+      "type": "string"
+    },
+    {
+      "name": "CDE_CMPGN_RSN",
+      "type": "string"
+    },
+    {
+      "name": "CDE_CMPGN_STAT",
+      "type": "string"
+    },
+    {
+      "name": "NUM_GOVT_ISS_CMPGN",
+      "type": "string"
+    },
+    {
+      "name": "CNT_VEH_CLOS_WITHOUT_CLM",
+      "type": "string"
+    },
+    {
+      "name": "CNT_TOT_CMPGN_VEH",
+      "type": "string"
+    },
+    {
+      "name": "CNT_CMPGN_VEH_EXCL",
+      "type": "string"
+    }, {
+      "name": "CNT_VEH_CLOS_WITH_CLM",
+      "type": "string"
+    },
+    {
+      "name": "CDE_CMPGN_TYP",
+      "type": "string"
+    },
+    {
+      "name": "DES_CMPGN_FULL",
+      "type": "string"
+    },
+    {
+      "name": "DTE_SRC_RCD_UPDT",
+      "type": "string"
+    },
+    {
+      "name": "TME_SRC_RCD_UPDT",
+      "type": "string"
+    },
+    {
+      "name": "ID_SRC_RCD_UPDT_USER",
+      "type": "string"
+    },
+    {
+      "name": "DTS_CREA",
+      "type": "string"
+    },
+    {
+      "name": "ID_CREA_USER",
+      "type": "string"
+    },
+    {
+      "name": "DTS_LAST_UPDT",
+      "type": "string"
+    },
+    {
+      "name": "ID_LAST_UPDT_USER",
+      "type": "string"
+    }
+  ]
+}

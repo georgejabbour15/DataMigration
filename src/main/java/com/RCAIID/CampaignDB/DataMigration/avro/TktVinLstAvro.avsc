@@ -1,0 +1,87 @@
+{
+  "namespace": "com.mbusa.avro.dto",
+  "type": "record",
+  "name": "TktVinLstDTO",
+  "fields": [
+    {
+      "name": "ID_NUM_VIN",
+      "type": "string"
+    },
+    {
+      "name": "CDE_AIRBAG_TYP",
+      "type": "string"
+    },
+    {
+      "name": "CDE_VEH_MODL_YR",
+      "type": "string"
+    },
+    {
+      "name": "CDE_BAUM",
+      "type": "string"
+    },
+    {
+      "name": "DES_VEH_MODL",
+      "type": "string"
+    },
+    {
+      "name": "CDE_GEO_ZN",
+      "type": "string"
+    },
+    {
+      "name": "IND_HAH",
+      "type": "string"
+    },
+    {
+      "name": "CDE_PRI_GRP",
+      "type": "string"
+    },
+    {
+      "name": "ID_NHTSA",
+      "type": "string"
+    },
+    {
+      "name": "IND_SLVG",
+      "type": "string"
+    },
+    {
+      "name": "IND_SCRPD",
+      "type": "string"
+    },
+    {
+      "name": "IND_STLN",
+      "type": "string"
+    },
+    {
+      "name": "IND_EXPRTD",
+      "type": "string"
+    },
+    {
+      "name": "DTE_LAST_577",
+      "type": "string"
+    },
+    {
+      "name": "IND_AIRBAG_TYP",
+      "type": "string"
+    },
+    {
+      "name": "DTS_CREA",
+      "type": "string"
+    },
+    {
+      "name": "ID_CREA_USER",
+      "type": "string"
+    },
+    {
+      "name": "DTS_LAST_UPDT",
+      "type": "string"
+    },
+    {
+      "name": "ID_LAST_UPDT_USER",
+      "type": "string"
+    },
+    {
+      "name": "NUM_PART",
+      "type": "string"
+    },
+  ]
+}
