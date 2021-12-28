@@ -1,7 +1,7 @@
 {
   "namespace": "com.mbusa.avro.dto",
   "type": "record",
-  "name": "CmpgnLeglDclmTxtDTP",
+  "name": "CmpgnLeglDclmTxtDTO",
   "fields": [
     {
       "name": "CDE_CTRY",

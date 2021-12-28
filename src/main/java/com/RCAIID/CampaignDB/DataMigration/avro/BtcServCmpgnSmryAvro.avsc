@@ -1,7 +1,7 @@
 {
   "namespace": "com.mbusa.avro.dto",
   "type": "record",
-  "name": "BtcServCmognSmryDTO",
+  "name": "BtcServCmpgnSmryDTO",
   "fields": [{
       "name": "CDE_CTRY",
       "type": "string"

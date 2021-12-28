@@ -43,11 +43,12 @@
 			<artifactId>postgresql</artifactId>
 			<version>42.3.1</version>
 		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/io.confluent/kafka-avro-serializer -->
 		<dependency>
 			<groupId>io.confluent</groupId>
 			<artifactId>kafka-avro-serializer</artifactId>
-			<version>7.0.1</version>
+			<version>5.3.0</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.apache.avro/avro -->
@@ -79,11 +80,6 @@
             <artifactId>spring-boot-starter-data-jpa</artifactId>
         </dependency>
 
-		<dependency>
-			<groupId>io.confluent</groupId>
-			<artifactId>kafka-avro-serializer</artifactId>
-			<version>6.2.0</version>
-		</dependency>
 	</dependencies>
 
 	<build>
@@ -106,7 +102,7 @@
 							</goals>
 							<configuration>
 								<sourceDirectory>src/main/java/com/RCAIID/CampaignDB/DataMigration/avro</sourceDirectory>
-								<outputDirectory>src/main/java/com/RCAIID/CampaignDB/DataMigration/avro</outputDirectory>
+								<outputDirectory>src/main/java/com/RCAIID/CampaignDB/DataMigration/avro/</outputDirectory>
 							</configuration>
 						</execution>
 					</executions>

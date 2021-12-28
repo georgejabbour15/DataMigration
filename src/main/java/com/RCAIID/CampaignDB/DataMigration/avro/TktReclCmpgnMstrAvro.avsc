@@ -1,7 +1,7 @@
 {
   "namespace": "com.mbusa.avro.dto",
   "type": "record",
-  "name": "TktReclCmpgnMstrAvroDTO",
+  "name": "TktReclCmpgnMstrDTO",
   "fields": [
     {
       "name": "CDE_CTRY",
